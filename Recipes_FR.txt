@@ -1,0 +1,13 @@
+Recipes_FR = {
+	Recipe_Make_CAM69_Front_Bullbar = "Fabriquer Pare-buffle avant",
+	Recipe_Make_CAM69_Front_Bullbar_with_Bumper = "Fabriquer Pare-buffle avant avec pare-chocs",
+	Recipe_Make_CAM69_Front_Side_Window = "Fabriquer Vitre latérale avant",
+	Recipe_Make_CAM69_Rear_Bullbar = "Fabriquer Pare-buffle arrière",
+	Recipe_Make_CAM69_Rear_Bullbar_with_Bumper = "Fabriquer Pare-buffle arrière avec pare-chocs",
+	Recipe_Make_CAM69_Rear_Side_Window = "Fabriquer Vitre latérale arrière",
+	Recipe_Make_CAM69_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_CAM69_Rear_Windshield_Armor = "Fabriquer Armure de pare-brise arrière",
+	Recipe_Make_CAM69_Window_Armor = "Fabriquer Armure de vitre",
+	Recipe_Make_CAM69_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_CAM69_Windshield_Armor = "Fabriquer Armure de pare-brise",
+}
