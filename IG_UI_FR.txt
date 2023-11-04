@@ -2,14 +2,14 @@ IG_UI_FR = {
 	IGUI_VehicleName69camaroRS = "'69 Chevrolet Camaro SS/RS"
 	IGUI_VehicleName69camaroSS = "'69 Chevrolet Camaro SS"
 
-	IGUI_VehiclePartCAM69SpareTire = "Pneu de rechange",
-	IGUI_VehiclePartCAM69FrontBumper = "Pare-choc avant",
-	IGUI_VehiclePartCAM69RearBumper = "Pare-choc arrière",
+	IGUI_VehiclePartCAM69SpareTire = "Pneu de secours",
+	IGUI_VehiclePartCAM69FrontBumper = "Pare-chocs avant",
+	IGUI_VehiclePartCAM69RearBumper = "Pare-chocs arrière",
 
-	IGUI_VehiclePartCAM69WindshieldArmor = "Armure de pare-brise",
-	IGUI_VehiclePartCAM69WindshieldRearArmor = "Armure de pare-brise arrière",
-	IGUI_VehiclePartCAM69WindowLeftArmor = "Armure de vitre avant gauche",
-	IGUI_VehiclePartCAM69WindowRightArmor = "Armure de vitre avant droite",
+	IGUI_VehiclePartCAM69WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartCAM69WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartCAM69WindowLeftArmor = "Blindage de vitre avant gauche",
+	IGUI_VehiclePartCAM69WindowRightArmor = "Blindage de vitre avant droite",
 
 	IGUI_VehiclePartCAM69Spoiler = "Becquet",
 	IGUI_VehiclePartCAM69Trunk = "Coffre",
