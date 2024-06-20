@@ -15,4 +15,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartCAM69Trunk = "Coffre",
 
 	IGUI_CraftCategory_CAM69 = "'69 Chevrolet Camaro",
+
+	IGUI_VehiclePartCAM69Roofrack = "Coffre de toit",
 }
