@@ -18,4 +18,16 @@ Recipes_FR = {
 	Recipe_Dismantle_Muscle_Car_Tire = "Démonter Pneu",
 	Recipe_Dismantle_Vintage_Roofrack = "Démonter Coffre de toit",
 	Recipe_Make_Roofrack = "Fabriquer Coffre de toit",
+
+	Recipe_Dismantle_69_Chevrolet_Camaro_Armor = "Démonter Blindage",
+	Recipe_Dismantle_69_Chevrolet_Camaro_Door = "Démonter Portière",
+	Recipe_Dismantle_69_Chevrolet_Camaro_Lid = "Démonter Coffre",
+	Recipe_Dismantle_69_Chevrolet_Camaro_Seat = "Démonter Siège",
+	Recipe_Make_69_Chevrolet_Camaro_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_69_Chevrolet_Camaro_Rear_Windshield_Armor = "Fabriquer Blindage de pare-brise arrière",
+	Recipe_Make_69_Chevrolet_Camaro_Reinforced_Bumper = "Fabriquer Pare-chocs renforcé",
+	Recipe_Make_69_Chevrolet_Camaro_Tire = "Fabriquer Pneu",
+	Recipe_Make_69_Chevrolet_Camaro_Window_Armor = "Fabriquer Blindage de vitre",
+	Recipe_Make_69_Chevrolet_Camaro_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+	Recipe_Repair_69_Chevrolet_Camaro_Tire = "Réparer Pneu",
 }
